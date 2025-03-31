@@ -1,15 +1,15 @@
-#📌 Cancer Detection Using Artificial Neural Networks (ANN)
+📌 Cancer Detection Using Artificial Neural Networks (ANN)
 
-##🔗 Streamlit Dashboard: https://ann055041-878gxvedjjg222chwbskrq.streamlit.app/
+🔗 Streamlit Dashboard: https://ann055041-878gxvedjjg222chwbskrq.streamlit.app/
 
-##🏆 Project Details
+🏆 Project Details
 This project aims to predict cancer malignancy using a deep learning model built with Artificial Neural Networks (ANN). The model is trained on a structured dataset containing patient tumor attributes. The primary focus is on hyperparameter tuning to enhance model performance. The dataset used is cancer_detectionANN.csv.
 
-##👥 Contributors
+👥 Contributors
 Sejal Raj (055041)
 Vidushi Rawat (055056)
 
-##🔑 Key Activities
+🔑 Key Activities
 •	Data Preprocessing: Handling missing values, encoding categorical variables, and normalizing numerical attributes.
 •	Model Development: Constructing an ANN with tunable hyperparameters for optimization.
 •	Hyperparameter Tuning: Investigating the impact of different hyperparameter values on accuracy.
